@@ -1,0 +1,17 @@
+{
+  "name": "hubot-cronjob-issue3-troubleshooting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hubot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "coffee-script": "^1.11.1",
+    "hubot": "^2.19.0",
+    "hubot-cronjob": "^0.2.2"
+  }
+}
